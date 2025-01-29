@@ -82,6 +82,10 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 ## 7. Contact
 For any questions or support, open an issue on GitHub.
 
+## 8. Project URL
+```
+https://roadmap.sh/projects/server-stats
+```
 
 
 
